@@ -8,3 +8,15 @@ https://cdn05khi.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/live/122M/chu
 https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/live/137M/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=1593296&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDEwOjIxOjA4IEFNJmhhc2hfdmFsdWU9cGsyT0F4T2FhbmJma0hoM0dZa1VVQT09JnZhbGlkbWludXRlcz02MA%3D%3D
 #EXTINF:-1 group-title="Entertainment",ARY Digital
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/vsat-ary-L/chunks.m3u8?nimblesessionid=56022325&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDM6MTE6MzkgUE0maGFzaF92YWx1ZT0zZ0lFRDNXWHRqMjNQb2dSWnVubFVRPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,HUM
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/humTV-abr/live/82M/chunks.m3u8?nimblesessionid=59910862&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDM6Mzk6MzMgUE0maGFzaF92YWx1ZT1SUi96TW05UEcyb3NGUCtMeEpzWnZnPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,Cartoon Network
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/cartoonnetwork-abr/live/87M/chunks.m3u8?nimblesessionid=59911402&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDM6NDA6MDcgUE0maGFzaF92YWx1ZT1FTnBwNkE2ZGdlMFV0azF3VjR3WVRnPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,Filmax
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Filmax-abr/live/vsat-filmax-L/chunks.m3u8?nimblesessionid=59911954&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDM6NDA6NDggUE0maGFzaF92YWx1ZT1YYnc1cGx2N3lFbGw5MkMyMHdKTURBPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,ARY News
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-L/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=3694507&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDM6NDE6MzggUE0maGFzaF92YWx1ZT1LSUZ1c21ITy9XemFnOTVFSUhlWWF3PT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,Minimax
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Minimax-abr/live/157-1L/chunks.m3u8?nimblesessionid=59912874&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDM6NDI6MTEgUE0maGFzaF92YWx1ZT0zQlhUY1VOcyt5SytSWUgyRHRVb0RnPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,Inplus
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Inplus-abr/live/165M/chunks.m3u8?nimblesessionid=56044861&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDM6NDM6MTAgUE0maGFzaF92YWx1ZT1KeU1QNW1pWG5KQ21qUzhnSThaYUhRPT0mdmFsaWRtaW51dGVzPTYw
