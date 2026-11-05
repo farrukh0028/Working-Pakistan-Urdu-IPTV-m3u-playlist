@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="4TVNews.in@SD" group-title="Entertainment" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",Green Entertainment
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-https://cdn05khi.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDk6NDY6MDggQU0maGFzaF92YWx1ZT1qR0hMR05aTWtWWG9jd2ZkYXBCMW1nPT0mdmFsaWRtaW51dGVzPTYw
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-green-L/chunks.m3u8?nimblesessionid=82962353&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDI6Mjc6MjQgUE0maGFzaF92YWx1ZT1Sc2hJSFFuR2hwVkF2aW1xMy90bVFBPT0mdmFsaWRtaW51dGVzPTYwDk6NDY6MDggQU0maGFzaF92YWx1ZT1qR0hMR05aTWtWWG9jd2ZkYXBCMW1nPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 group-title="Entertainment",Geo Entertainment
 https://cdn05khi.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/live/122M/chunks.m3u8?nimblesessionid=48853468&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDEwOjE4OjQwIEFNJmhhc2hfdmFsdWU9cU4wdmZHMTFKTURYcWVCZDNwMlZRZz09JnZhbGlkbWludXRlcz02MA%3D%3D
 #EXTINF:-1 group-title="News",Geo news
