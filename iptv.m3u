@@ -1,16 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="4TVNews.in@SD" group-title="Entertainment" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",Green Entertainment
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-green-L/chunks.m3u8?nimblesessionid=82962353&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDI6Mjc6MjQgUE0maGFzaF92YWx1ZT1Sc2hJSFFuR2hwVkF2aW1xMy90bVFBPT0mdmFsaWRtaW51dGVzPTYwDk6NDY6MDggQU0maGFzaF92YWx1ZT1qR0hMR05aTWtWWG9jd2ZkYXBCMW1nPT0mdmFsaWRtaW51dGVzPTYw
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-green-L/chunks.m3u8?nimblesessionid=59856768&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDI6NDQ6MTYgUE0maGFzaF92YWx1ZT1rekM5QkhqK3VLaWpsSDZjSEJudVNRPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 group-title="Entertainment",Geo Entertainment
 https://cdn05khi.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/live/122M/chunks.m3u8?nimblesessionid=48853468&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDEwOjE4OjQwIEFNJmhhc2hfdmFsdWU9cU4wdmZHMTFKTURYcWVCZDNwMlZRZz09JnZhbGlkbWludXRlcz02MA%3D%3D
 #EXTINF:-1 group-title="News",Geo news
 https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-geonews-abr/live/137M/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=1593296&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDEwOjIxOjA4IEFNJmhhc2hfdmFsdWU9cGsyT0F4T2FhbmJma0hoM0dZa1VVQT09JnZhbGlkbWludXRlcz02MA%3D%3D
 #EXTINF:-1 group-title="Entertainment",ARY Digital
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/vsat-ary-H/chunks.m3u8?nimblesessionid=97296215&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDEwOjIzOjA3IEFNJmhhc2hfdmFsdWU9N293UlBCb2MvYnYyQzlJSTV6STR5dz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1,ARY news
-https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8?nimblesessionid=1597271&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDEwOjI5OjI0IEFNJmhhc2hfdmFsdWU9ckM5ZnZ3UXpoaW9BV3NXVkZFY0lQdz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1,HUM TV
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/humTV-abr/live/82M/chunks.m3u8?nimblesessionid=82865980&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDEwOjMxOjU5IEFNJmhhc2hfdmFsdWU9c3ZCUWltWGxOcHhvNE5CcTRWeUZqdz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1,Inplus Pakistan
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Inplus-abr/live/165M/chunks.m3u8?nimblesessionid=82867920&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDEwOjM1OjM2IEFNJmhhc2hfdmFsdWU9RzBkTE9FWHBoVWZaOWx4UklrYzMzUT09JnZhbGlkbWludXRlcz02MA%3D%3D
