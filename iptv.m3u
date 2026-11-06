@@ -96,11 +96,25 @@ https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1 tvg-id="SalaamTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144466_ld_h15_aa.png?lock=720x540" group-title="News",Salaam TV (720p)
 https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="SkyNewsUrdu.pk@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png" group-title="News",Sky News Urdu (720p)
-https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
 #EXTINF:-1 tvg-id="SuchTV.pk@SD" tvg-logo="https://i.imgur.com/yYMh3JJ.png" group-title="News",Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ZainabiaChannel.in@SD" tvg-logo="" group-title="Religious",Zainabia Channel
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-id="ZindagiTV.pk@SD" tvg-logo="https://i.imgur.com/XBHvR5J.png" group-title="Undefined",Zindagi TV (576p) [Not 24/7]
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+#EXTINF:0 tvg-country="PK"  group-title="Undefined",ARY News
+http://tvpremiumhd.club/lista-gratuita/213011/on/live.php?id=158.69.228.195:1935/newsmobile/myStream/playlist.m3u8&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK"  group-title="Undefined",Eye 95 TV (US)
+http://tvpremiumhd.club/lista-gratuita/213011/on/live.php?id=cdn20.liveonlineservices.com/hls/eye95tv.m3u8&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/jYR0ACG.png" group-title="News",Lahore News
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK"  group-title="Undefined",PTV News
+http://tvpremiumhd.club/lista-gratuita/213011/on/live.php?id=67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK"  group-title="Sport",PTV Sports
+http://tvpremiumhd.club/lista-gratuita/213011/on/lives.php?id=5c1666995e3bc.streamlock.net/live/ptvsports/chunklist_w1544679165.m3u8&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="http://www.ptv.com.pk/public/user/assets/images/ptv-familyNews.jpg" group-title="Undefined",PTV News
+http://tvpremiumhd.club/lista-gratuita/224502/on/live.php?id=67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK"  group-title="Undefined",Tez
+http://tvpremiumhd.club/lista-gratuita/213011/on/live.php?id=stream.jeem.tv/geo/geotezz/playlist.m3u8&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="Undefined",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:iptvcat.com
