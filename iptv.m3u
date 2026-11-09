@@ -139,10 +139,4 @@ https://cdn.pishow.tv/ott/live/1161/master.m3u8
 #EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-logo="https://i.imgur.com/m7DvvqF.png" group-title="Sports",Star Sports 2 Telugu HD (576p)
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 #EXTINF:-1,Pak Vs Srilanka
-https://cdn02isb-n.tamashaweb.com:8087/jazzauth/SL-vs-PAK-2026-SVOD-abr/live/PAK_TRI_SVOD_240p/chunks.m3u8?nimblesessionid=16596767&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI2IDU6MDQ6MzAgQU0maGFzaF92YWx1ZT0zTVRXMHM3RXQ2RkdUMklGWkRLK0F3PT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,ARY Entertainment
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/vsat-ary-L/chunks.m3u8?nimblesessionid=61232042&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI2IDU6MDE6MzEgQU0maGFzaF92YWx1ZT00T0Y4UTF1SFFLRGpybEdFWU5XcndBPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,Green
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-green-L/chunks.m3u8?nimblesessionid=84399514&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI2IDU6MDA6NTEgQU0maGFzaF92YWx1ZT13Vzc2U3FMdEVXQlloTm1hZlJwTjVnPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,Geo Entertainment
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/live/122L/chunks.m3u8?nimblesessionid=84400390&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI2IDU6MDI6MjUgQU0maGFzaF92YWx1ZT0xSHA1cC9xTTE4SW1xaGFlakZrNzd3PT0mdmFsaWRtaW51dGVzPTYw
+https://cdn02isb-n.tamashaweb.com:8087/jazzauth/SL-vs-PAK-2026-AVOD-abr/live/PAK_TRI_AVOD_240p/chunks.m3u8?nimblesessionid=16630824&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI2IDU6MzQ6MjEgQU0maGFzaF92YWx1ZT0zWnI1UHZLRkR1RUpsUklyRkpiZWNRPT0mdmFsaWRtaW51dGVzPTYw
