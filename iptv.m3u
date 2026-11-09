@@ -138,11 +138,11 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
 #EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-logo="https://i.imgur.com/m7DvvqF.png" group-title="Sports",Star Sports 2 Telugu HD (576p)
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
-#EXTINF:-1,Sony Liv
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794163608~acl=/*~id=58117236563325538258946580556990~hmac=c4d1d5e67fc39939dbd506b6c9bdd53aef2588da6518c015c4cc919eec704ddd
+#EXTINF:-1,Pak Vs Srilanka
+https://cdn02isb-n.tamashaweb.com:8087/jazzauth/SL-vs-PAK-2026-SVOD-abr/live/PAK_TRI_SVOD_240p/chunks.m3u8?nimblesessionid=16596767&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI2IDU6MDQ6MzAgQU0maGFzaF92YWx1ZT0zTVRXMHM3RXQ2RkdUMklGWkRLK0F3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1,ARY Entertainment
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/vsat-ary-L/chunks.m3u8?nimblesessionid=57120095&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDEyOjMwOjMwIFBNJmhhc2hfdmFsdWU9bmhRbUxQT0o4eEVUZXNObDJUR05pZz09JnZhbGlkbWludXRlcz02MA%3D%3D
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/vsat-ary-L/chunks.m3u8?nimblesessionid=61232042&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI2IDU6MDE6MzEgQU0maGFzaF92YWx1ZT00T0Y4UTF1SFFLRGpybEdFWU5XcndBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1,Green
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-green-L/chunks.m3u8?nimblesessionid=84139203&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDEyOjMxOjM0IFBNJmhhc2hfdmFsdWU9YW12bkRJYys1TUJuQVBZSlFEZ0paQT09JnZhbGlkbWludXRlcz02MA%3D%3D
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-green-L/chunks.m3u8?nimblesessionid=84399514&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI2IDU6MDA6NTEgQU0maGFzaF92YWx1ZT13Vzc2U3FMdEVXQlloTm1hZlJwTjVnPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1,Geo Entertainment
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/live/122L/chunks.m3u8?nimblesessionid=98542413&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDEyOjMyOjA5IFBNJmhhc2hfdmFsdWU9azdSUE4xT205UUwwek1yUEU0OW1pdz09JnZhbGlkbWludXRlcz02MA%3D%3D
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/live/122L/chunks.m3u8?nimblesessionid=84400390&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI2IDU6MDI6MjUgQU0maGFzaF92YWx1ZT0xSHA1cC9xTTE4SW1xaGFlakZrNzd3PT0mdmFsaWRtaW51dGVzPTYw
