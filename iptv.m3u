@@ -139,6 +139,4 @@ https://cdn.pishow.tv/ott/live/1161/master.m3u8
 #EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-logo="https://i.imgur.com/m7DvvqF.png" group-title="Sports",Star Sports 2 Telugu HD (576p)
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 #EXTINF:-1,PTV sports
-https://mz01.bhalocast.com:7060/hls/ptvskpr.m3u8?md5=gZ732DrCW3bem-dTRmqYkA&expires=1794209266&ch=ptvskpr&s=292eda23c76373bb5ac729788526f489
-#EXTINF:-1,Willow Sports
-https://mz02.bhalocast.com:7060/hls/willow2c.m3u8?md5=PQ-HBxupouRp1FRyfiONbg&expires=1794209361&ch=willow2c&s=e19dd015b818b4e7292d8a851f92ca35
+https://cdn04fsd-n.tamashaweb.com:8087/jazzauth/SL-vs-PAK-2026-SVOD-abr/live/PAK_TRI_SVOD_240p/chunks.m3u8?nimblesessionid=5780008&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI2IDg6NTQ6MjYgQU0maGFzaF92YWx1ZT1WRkxodXoydG1SeldheFNneG45L3hnPT0mdmFsaWRtaW51dGVzPTYw
